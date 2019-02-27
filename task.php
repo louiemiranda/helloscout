@@ -1,6 +1,6 @@
 <?php
 /**
- * Please write a production-ready PHP function that determines if a string starts with an upper-case letter A-Z✱
+ * Make a PHP function that determines if a string starts with an upper-case letter A-Z✱
  * 
  * @created February 27, 2019
  * @author  Louie Miranda (lmiranda@gmail.com)
